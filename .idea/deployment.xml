@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="projet_web">
+    <serverData>
+      <paths name="kimsufi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/web/projet_web" local="$PROJECT_DIR$" web="/projet_web" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="projet_web">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/projet_web" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
